@@ -2,7 +2,7 @@
  
 Data and scripts associated with the paper: *Early transcriptional similarities between two distinct neural lineages during ascidian embryogenesis*
 
-The `analysis/` directory contains the R scripts for the DESeq2 analysis. An excel formatted table in in the `results/` directory.
+The `analysis/` directory contains the R scripts for the DESeq2 analysis. There is an excel formatted table in the `results/` directory.
 
 The `counts/` directory contains the raw count data matrices for the mapped reads.
 
