@@ -1,0 +1,15 @@
+condition batch animal
+a65r1 a65 grey a
+a65l2 a65 grey b
+a65r2 a65 grey b
+a65l3 a65 yellow c
+a65l4 a65 yellow d
+a65l5 a65 yellow e
+a65r5 a65 yellow e
+a66r1 a66 grey a
+a66l2 a66 grey b
+a66r2 a66 grey b
+a66l3 a66 yellow c
+a66l4 a66 yellow d
+a66l5 a66 yellow e
+a66r5 a66 yellow e

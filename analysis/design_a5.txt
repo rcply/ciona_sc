@@ -1,0 +1,15 @@
+condition batch animal
+a53r1 a53 grey a
+a53r3 a53 grey b
+a53r4 a53 grey c
+a53l5 a53 grey d
+a53r5 a53 grey d
+a53r6 a53 grey e
+a53l6 a53 grey e
+A51r1 A51 grey a
+A51l3 A51 grey b
+A51r4 A51 grey c
+A51l5 A51 grey d
+A51r5 A51 grey d
+A51r6 A51 grey e
+A51l6 A51 grey e
