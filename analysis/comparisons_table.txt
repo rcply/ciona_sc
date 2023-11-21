@@ -1,0 +1,11 @@
+cell_a	cell_b	design	formula
+a53	A51	design_a5.txt	~animal + condition
+a65	a66	design_small_a6.txt	~animal + condition
+A62	A61	design_capA6.txt	~animal + condition
+A74	A72	design_capA7.txt	~animal + condition
+A74	A73	design_capA7.txt	~animal + condition
+a710	a711	batch_design.txt	~condition
+a819	a822	batch_design.txt	~condition
+A87	A85	batch_design.txt	~condition
+aN	aE	batch_design.txt	~condition
+AN	AM	batch_design.txt	~condition
