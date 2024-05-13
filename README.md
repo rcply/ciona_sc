@@ -10,7 +10,7 @@ The `tfbs/` directory contains the R script for the transcription factor binding
 
 THe `cao_distances/` directory contains data and code for reproducing Figure 3.
 
-The `cluster_tree/` directory contains a minimal Seurat script for producing the cell cluster of Figure 2b.
+The `cluster_tree/` directory contains a minimal Seurat script for producing the cell clustering of Figure 2b.
 
 
 
