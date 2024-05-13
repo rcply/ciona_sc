@@ -8,6 +8,9 @@ The `counts/` directory contains the raw count data matrices for the mapped read
 
 The `tfbs/` directory contains the R script for the transcription factor binding analysis and the matrix of transcription factor presence in 1kbp upstream regions (see manuscript).
 
+THe `cao_distances/` directory contains data and code for reproducing Figure 3.
+
+The `cluster_tree/` directory contains a minimal Seurat script for producing the cell cluster of Figure 2b.
 
 
 
